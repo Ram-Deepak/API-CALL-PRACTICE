@@ -17,6 +17,6 @@ class UserAPI(Resource):
         details = {
             'roll_number' : str(roll_number),
             'name' : 'Ranjith',
-            'call_sign' : 'Kama Sutra'
+            'call_sign' : 'KS'
         }
         return details
