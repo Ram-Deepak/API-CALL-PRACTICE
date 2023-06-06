@@ -1,7 +1,6 @@
-# Welcome to my first open source project
+# API-FLOW IN FLASK
 
-- This project is actually to teach `Flask micro-framework`
-- Also jinja-II, sqlalchemy, testing, logging, openapi specification, security etc..
-- Feel free to make changes to the content
+- This code describes the backend flow in flask
+- An api is created which gets called from the controllers
 
 `Owner : R-D`
